@@ -1,0 +1,38 @@
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.deps.json
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.runtimeconfig.json
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.runtimeconfig.dev.json
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.pdb
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.csprojAssemblyReference.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.AssemblyInfoInputs.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.AssemblyInfo.cs
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.csproj.CopyComplete
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.pdb
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.deps.json
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.runtimeconfig.json
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.runtimeconfig.dev.json
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\PhoneBook.Tests.pdb
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.csprojAssemblyReference.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.AssemblyInfoInputs.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.AssemblyInfo.cs
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.csproj.CopyComplete
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook.Tests\obj\Debug\netcoreapp2.2\PhoneBook.Tests.pdb

@@ -1,0 +1,46 @@
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorAssemblyInfo.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorAssemblyInfo.cs
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.AssemblyInfo.cs
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorCoreGenerate.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorTargetAssemblyInfo.cache
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorTargetAssemblyInfo.cs
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tmart\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.csproj.CopyComplete
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorAssemblyInfo.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorAssemblyInfo.cs
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.AssemblyInfo.cs
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorCoreGenerate.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorTargetAssemblyInfo.cache
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.RazorTargetAssemblyInfo.cs
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tmart\Source\Repos\troymartin\PhoneBook\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.csproj.CopyComplete
